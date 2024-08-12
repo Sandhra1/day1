@@ -1,0 +1,13 @@
+h1{
+    color: yellow;
+}
+
+.header{
+    color: blue;font-size: medium;font-style: italic;
+}
+body{
+    background: red;
+}
+#para{
+    color: aqua;
+}
